@@ -3,8 +3,8 @@
 
 
 <p align="center">
-  <img src="download.gif" alt="Snake Animation" 
-       width="1000" height="350">
+  <img src="Pixel.gif" alt="Snake Animation" 
+       width="1000" height="300">
 </p>
 
 ## About Me  
