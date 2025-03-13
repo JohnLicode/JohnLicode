@@ -1,13 +1,15 @@
 
-<h3 align="center">A passionate Backend dev chill student</h3>
+<h1 align="center">A passionate Backend dev | chill student</h1><br>
+
 
 <p align="center">
-  <img src="https://i.gifer.com/3AyY.gif" alt="Coding GIF" />
+  <img src="download.gif" alt="Snake Animation" 
+       width="1000" height="350">
 </p>
 
 ## About Me  
 
-👋 **Hey there!** I'm a **3rd-year Information Technology Student** passionate about **backend web development** and building efficient, scalable systems. I'm currently diving deep into **server-side programming, databases, and APIs** to strengthen my backend skills.  
+👋 **Hey there!** My name is **JOHN LENARD** and I'm a **3rd-year Information Technology Student** passionate about **backend web development** and building efficient, scalable systems. I'm currently diving deep into **server-side programming, databases, and APIs** to strengthen my backend skills.  
 
 💻 Right now, I'm learning how to:  
 - Design and develop **RESTful APIs**  
