@@ -9,7 +9,7 @@
 
 ## About Me  
 
-👋 **Hey there!** My name is **JOHN LENARD** and I'm a **3rd-year Information Technology Student** passionate about **backend web development** and building efficient, scalable systems. I'm currently diving deep into **server-side programming, databases, and APIs** to strengthen my backend skills.  
+👋 **Hey there!** My name is **JOHN LENARD** and I'm a **4th-year Information Technology Student** passionate about **backend web development** and building efficient, scalable systems. I'm currently diving deep into **server-side programming, databases, and APIs** to strengthen my backend skills.  
 
 💻 Right now, I'm learning how to:  
 - Design and develop **RESTful APIs**  
