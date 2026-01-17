@@ -13,10 +13,10 @@
 
 💻 Right now, I'm learning how to:  
 - Design and develop **RESTful APIs**  
-- Manage databases using **MySQL & PHP MySQLi**  
+- Manage databases using **MySQL,PosgreSQL & PHP MySQLi**  
 - Handle **CRUD operations** efficiently  
-- Work with **Node.js, Flask, and PHP** for backend development  
-- Connect **frontend applications** with the backend for seamless user experiences  
+- Work with **Node.js, Flask,Fast API and PHP** for backend development  
+- Connect **frontend applications** with the backend for seamless user experience.
 
 🚀 My goal is to become a **proficient backend developer**, mastering **server-side logic, database optimization, authentication, and performance tuning**.  
 
